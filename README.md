@@ -26,7 +26,5 @@
 ![](https://streak-stats.demolab.com/?user=didiytf8&theme=date_night&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=didiytf8&theme=date_night&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=didiytf8&icon=9&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
