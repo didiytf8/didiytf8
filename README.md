@@ -15,8 +15,6 @@
 [![](https://komarev.com/ghpvc/?username=didiytf8&icon=9&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-**didiytf8/didiytf8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 ## 🌐 Socials:
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/6ItFbiyz1) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@fyoleru) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:darinamulygina@yandex.ru) 
